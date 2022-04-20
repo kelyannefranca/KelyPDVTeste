@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/07 02:29:41.000.783,=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Project1.html</Transaction>
+    <Transaction>2021/06/07 02:29:41.000.883,=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 16:40:10.000.063,=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 16:41:25.000.072,C:\Projetos\Projeto WK\UMain.pas=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 16:41:25.000.072,C:\Projetos\Projeto WK\UMain.dfm=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/10/06 16:41:38.000.052,C:\Projetos\Projeto WK\ProjWK.dproj=C:\Users\forte\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/06 16:42:18.000.872,C:\Projetos\Projeto WK\UPrincipal.pas=C:\Projetos\Projeto WK\UMain.pas</Transaction>
+    <Transaction>2021/10/06 16:42:18.000.872,C:\Projetos\Projeto WK\UPrincipal.dfm=C:\Projetos\Projeto WK\UMain.dfm</Transaction>
+    <Transaction>2021/10/07 01:56:16.000.295,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 01:56:42.000.205,C:\Projetos\Projeto WK\Unit1.dfm=C:\Projetos\Projeto WK\UPedidoVendas.dfm</Transaction>
+    <Transaction>2021/10/07 01:56:42.000.205,C:\Projetos\Projeto WK\Unit1.pas=C:\Projetos\Projeto WK\UPedidoVendas.pas</Transaction>
+    <Transaction>2021/10/07 14:52:27.000.840,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 14:53:00.000.022,C:\Projetos\Projeto WK\UConsultas.pas=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 15:01:25.000.036,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 15:02:28.000.935,C:\Projetos\Projeto WK\Model\UDMPrincipal.dfm=C:\Projetos\Projeto WK\Unit1.dfm</Transaction>
+    <Transaction>2021/10/07 15:02:28.000.935,C:\Projetos\Projeto WK\Model\UDMPrincipal.pas=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 15:21:27.000.186,C:\Projetos\Projeto WK\UPrincipal.dfm=C:\Projetos\Projeto WK\View.Principal.dfm</Transaction>
+    <Transaction>2021/10/07 15:21:27.000.186,C:\Projetos\Projeto WK\UPrincipal.pas=C:\Projetos\Projeto WK\View.Principal.pas</Transaction>
+    <Transaction>2021/10/07 15:21:38.000.356,C:\Projetos\Projeto WK\UPedidoVendas.pas=C:\Projetos\Projeto WK\View.PedidoVendas.pas</Transaction>
+    <Transaction>2021/10/07 15:21:38.000.356,C:\Projetos\Projeto WK\UPedidoVendas.dfm=C:\Projetos\Projeto WK\View.PedidoVendas.dfm</Transaction>
+    <Transaction>2021/10/07 15:21:56.000.826,C:\Projetos\Projeto WK\UConsultas.pas=C:\Projetos\Projeto WK\Consultas.pas</Transaction>
+    <Transaction>2021/10/07 15:22:31.000.946,C:\Projetos\Projeto WK\Consultas.pas=C:\Projetos\Projeto WK\Model\Consultas.pas</Transaction>
+    <Transaction>2021/10/07 15:23:14.000.247,C:\Projetos\Projeto WK\Model\Consultas.pas=</Transaction>
+    <Transaction>2021/10/07 15:38:05.000.071,=C:\Projetos\Projeto WK\Model\Consultas.pas</Transaction>
+    <Transaction>2021/10/07 22:02:20.000.192,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 22:03:09.000.475,C:\Projetos\Projeto WK\View.SelCliente.pas=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 22:03:09.000.475,C:\Projetos\Projeto WK\View.SelCliente.dfm=C:\Projetos\Projeto WK\Unit1.dfm</Transaction>
+    <Transaction>2021/10/08 09:01:46.000.728,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 09:03:46.000.633,C:\Projetos\Projeto WK\View.ManutPedidos.pas=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 09:03:46.000.633,C:\Projetos\Projeto WK\View.ManutPedidos.dfm=C:\Projetos\Projeto WK\Unit1.dfm</Transaction>
+    <Transaction>2021/11/29 16:28:52.000.384,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/11/29 16:30:10.000.364,C:\Projetos\Projeto WK\Unit1.pas=C:\Projetos\Projeto WK\Model\ClassSelectProdutos.pas</Transaction>
+    <Transaction>2021/11/29 16:51:34.000.312,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/11/29 16:52:16.000.528,C:\Projetos\Projeto WK\Unit1.pas=C:\Projetos\Projeto WK\Model\ClassSelectClientes.pas</Transaction>
+    <Transaction>2021/11/29 16:54:48.000.512,C:\Projetos\Projeto WK\Model\ClassSelectProdutos.pas=C:\Projetos\Projeto WK\Model\ClastProdutos.pas</Transaction>
+    <Transaction>2021/11/29 16:54:59.000.520,C:\Projetos\Projeto WK\Model\ClastProdutos.pas=C:\Projetos\Projeto WK\Model\ClassProdutos.pas</Transaction>
+    <Transaction>2021/11/29 16:55:13.000.430,C:\Projetos\Projeto WK\Model\ClassSelectClientes.pas=C:\Projetos\Projeto WK\Model\ClassClientes.pas</Transaction>
+    <Transaction>2021/11/29 16:59:30.000.290,C:\Projetos\Projeto WK\Model\Consultas.pas=C:\Projetos\Projeto WK\Model\ClassPedidos.pas</Transaction>
+    <Transaction>2021/11/29 17:08:29.000.708,C:\Projetos\Projeto WK\View.PedidoVendas.pas=</Transaction>
+    <Transaction>2021/11/29 17:33:01.000.047,=C:\Projetos\Projeto WK\View.PedidoVendas.pas</Transaction>
+    <Transaction>2021/11/29 17:36:10.000.127,=C:\Projetos\Projeto WK\ProjWK.todo</Transaction>
+    <Transaction>2021/11/30 00:00:42.000.555,=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/11/30 00:04:57.000.828,C:\Projetos\Projeto WK\ViewSelManutPedidos.pas=C:\Projetos\Projeto WK\Unit1.pas</Transaction>
+    <Transaction>2021/11/30 00:04:57.000.828,C:\Projetos\Projeto WK\ViewSelManutPedidos.dfm=C:\Projetos\Projeto WK\Unit1.dfm</Transaction>
+    <Transaction>2021/11/30 00:05:23.000.227,C:\Projetos\Projeto WK\View.SelManutPedidos.pas=C:\Projetos\Projeto WK\ViewSelManutPedidos.pas</Transaction>
+    <Transaction>2021/11/30 00:05:23.000.227,C:\Projetos\Projeto WK\View.SelManutPedidos.dfm=C:\Projetos\Projeto WK\ViewSelManutPedidos.dfm</Transaction>
+    <Transaction>2021/12/01 15:44:17.000.749,C:\Projetos\Projeto WK\View.SelManutPedidos.pas=</Transaction>
+    <Transaction>2022/04/20 03:20:41.000.535,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\ProjWK.dproj=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\PedidoVendasWK.dproj</Transaction>
+    <Transaction>2022/04/20 04:19:50.000.574,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.Principal.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\PrincipalU.pas</Transaction>
+    <Transaction>2022/04/20 04:19:50.000.574,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.Principal.dfm=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\PrincipalU.dfm</Transaction>
+    <Transaction>2022/04/20 04:44:35.000.406,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.SelCliente.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\ClientesPedidosU.pas</Transaction>
+    <Transaction>2022/04/20 04:44:35.000.406,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.SelCliente.dfm=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\ClientesPedidosU.dfm</Transaction>
+    <Transaction>2022/04/20 05:59:24.000.429,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.PedidoVendas.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\PedidoVendasU.pas</Transaction>
+    <Transaction>2022/04/20 05:59:24.000.429,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.PedidoVendas.dfm=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\PedidoVendasU.dfm</Transaction>
+    <Transaction>2022/04/20 11:31:04.000.687,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.ManutPedidos.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\ConsultaPedidosU.pas</Transaction>
+    <Transaction>2022/04/20 11:31:04.000.687,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\View.ManutPedidos.dfm=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\ConsultaPedidosU.dfm</Transaction>
+    <Transaction>2022/04/20 11:33:46.000.921,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\UDMPrincipal.dfm=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ConexaoU.dfm</Transaction>
+    <Transaction>2022/04/20 11:33:46.000.921,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\UDMPrincipal.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ConexaoU.pas</Transaction>
+    <Transaction>2022/04/20 12:09:34.972,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClasseProdutos.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassProdutos.pas</Transaction>
+    <Transaction>2022/04/20 12:09:41.628,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassePedidos.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassPedidos.pas</Transaction>
+    <Transaction>2022/04/20 12:09:45.268,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClasseClientes.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassClientes.pas</Transaction>
+    <Transaction>2022/04/20 12:10:46.623,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassProdutos.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClasseProdutos.pas</Transaction>
+    <Transaction>2022/04/20 12:10:51.748,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassClientes.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClasseClientes.pas</Transaction>
+    <Transaction>2022/04/20 12:10:54.232,C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassPedidos.pas=C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\wk-master\wk-master\Model\ClassePedidos.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Model"/>
+    <File Path="Model\ClassClientes.pas"/>
+    <File Path="Model\ClassPedidos.pas"/>
+    <File Path="Model\ClassProdutos.pas"/>
+    <File Path="Model\ConexaoU.pas"/>
+    <File Path="Model\ConexaoU.dfm"/>
+    <File Path="ClientesPedidosU.pas"/>
+    <File Path="ClientesPedidosU.dfm"/>
+    <File Path="ConsultaPedidosU.pas"/>
+    <File Path="ConsultaPedidosU.dfm"/>
+    <File Path="PedidoVendasU.pas"/>
+    <File Path="PedidoVendasU.dfm"/>
+    <File Path="PrincipalU.pas"/>
+    <File Path="PrincipalU.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
