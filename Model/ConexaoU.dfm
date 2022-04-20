@@ -26,8 +26,7 @@ object Dm: TDm
   end
   object FDPhysMySQLDriverLink: TFDPhysMySQLDriverLink
     VendorLib = 
-      'C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\w' +
-      'k-master\wk-master\LibMySQL\libmysql.dll'
+      'C:\Users\kelyn\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjKelyPDV\ProjKelyPdv\output\libmysql.dll'
     Left = 72
     Top = 192
   end
